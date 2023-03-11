@@ -1,0 +1,14 @@
+{
+  "name": "coding-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings src/app.js",
+    "test": "node --no-warnings src/app.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
