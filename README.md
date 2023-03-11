@@ -11,7 +11,7 @@ Using new native testing module from node 18.
 ## Install
 
 ```
-npm intstall
+npm install
 ```
 
 ## Scripts
